@@ -72,6 +72,7 @@ for fileName in os.listdir(testPath):
             classified[fileNameNum] = 0 # represent ham
         else:
             classified[fileNameNum] = 1 # represent spam
+    f.close()
 
 # Evaluate performance with metrics
 TP = 0
