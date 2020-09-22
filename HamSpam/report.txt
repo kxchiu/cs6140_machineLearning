@@ -1,0 +1,13 @@
+[ Hyperparameters ]
+Alpha: 	0.1
+Vocab:	20000
+--------------------
+[ Confusion Matrix ]
+TP: 36 	 FP: 13 
+FN: 1 	 TN: 50
+--------------------
+[ Evaluation Metrics ]
+Accuracy:	  0.860000
+Precision:	  0.734694
+Recall: 	  0.972973
+F1-score:	  0.837209
