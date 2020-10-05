@@ -2,6 +2,11 @@ from math import log
 import re
 import os
 
+"""
+Place this file under where the ham, spam, and test directories are.
+"""
+
+# Path to ham-spam training and testing data
 hamPath = "ham/"
 spamPath = "spam/"
 testPath = "test/"
